@@ -29,7 +29,7 @@ int main()
 		cout << numero1 << " > " << numero2 << endl;
 
 	if( numero1 <= numero2 )
-		cout << numero1 << " >= " << numero2 << endl;
+		cout << numero1 << " <= " << numero2 << endl;
 
 	if( numero1 >= numero2 )
 		cout << numero1 << " >= " << numero2 << endl;

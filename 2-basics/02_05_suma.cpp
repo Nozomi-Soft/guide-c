@@ -12,7 +12,7 @@ int main(){
 	std::cout << "Escriba el primer entero: "; //pide los datos al usuario
 	std::cin >> numero1; // lee el primer entero del usuario y lo coloca en numero1
 
-	std:cout << "Escriba el segundo entero: "; // piede los datos al usuario
+	std::cout << "Escriba el segundo entero: "; // piede los datos al usuario
 	std::cin >> numero2; // lee el segundo entero del usuario y lo coloca en numero2
 
 	suma = numero1 + numero2; // suma los números; almacena el resultado en suma
