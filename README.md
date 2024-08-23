@@ -1,5 +1,5 @@
 kakashi-p87
 guide c/c++
 
-compile command
+# compile command
 > g++ -o program.exe program.cpp
